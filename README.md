@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Design-ERD_%2F_Relational_Model-4479A1?style=flat-square"/>
   <img src="https://img.shields.io/badge/Normalization-3NF-2E8B57?style=flat-square"/>
   <img src="https://img.shields.io/badge/Queries-40_SQL-FF6B35?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Tables-40+-5C2D91?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Tables-50+-5C2D91?style=flat-square"/>
   <img src="https://img.shields.io/badge/Status-Complete-2E8B57?style=flat-square"/>
 </p>
 
@@ -79,7 +79,7 @@ Initial ERD capturing all entities, relationships, and attributes before normali
 
 | Metric | Count |
 |---|---|
-| Total tables | 40+ |
+| Total tables | 50+ |
 | Junction / bridge tables | 12 |
 | Foreign key relationships | 45+ |
 | SQL queries | 40 |
